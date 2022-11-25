@@ -1,23 +1,85 @@
-<h1 align="center">Hi 👋, I'm Yuvraj Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [OverStock](https://github.com/gauravsapkal/overstock-MERN-app)
+<h1 align="center">Hi there! I'm Yuvraj Yadav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+ <br>
+   
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)
+  <br>
+   ## 👨🏻‍💻 About Me:
 
-- 🌱 I’m currently learning **Full stack web Devlopement (Masai School)**
+<img  src="https://raw.githubusercontent.com/gauravsapkal/gauravsapkal/main/code.gif" height="280px"  align="right" />
 
-- 💬 Ask me about **react, redux, express, mongoDB**
+- 🙋‍♂️ All about me is at **[My Website](https://github.com/yuvraj99-cell)**
+
+- 🔭 I’m currently working on `Something Intresting`.
+
+- 🌱 I’m currently learning `MERN Stack`
+
+- 👯 I’m looking to collaborate for `Projects`
+
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned 
+
+- 💓 I love designing websites and coding.
 
 - 📫 How to reach me **yyyuvraj11@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JK0KCl1HR33tabuNHTTKkwBadtgGOVky/view?usp=share_link](https://drive.google.com/file/d/1JK0KCl1HR33tabuNHTTKkwBadtgGOVky/view?usp=share_link)
+<br>
 
-- ⚡ Fun fact **I love to get connect with peoples**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/yuvraj-yadav-95989521a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/yuvraj-yadav-95989521a" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/yyyuvraj11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/yyyuvraj11" height="30" width="40" /></a>
+
+
+
+
+
+
+<h2 align="center"><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h2>
+<p align="center">
+  <a >
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,redux,bootstrap,express,jquery,materialui,mongodb,nodejs," />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<!-- <img src="" alt="" /> -->
+<h2 align="center"><i>Tools | Use</i></h2>
+<p align="center">
+  <a >
+    <img src="https://skillicons.dev/icons?i=bash,codepen,firebase,git,github,heroku,netlify,powershell,vscode,visualstudio," />
+  </a>
+</p>
+
+
+
+<h2 align="center"><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yuvraj-yadav-95989521a/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+  <a title="yyyuvraj11@gmail.com" href="mailto:yyyuvraj11@gmail.com" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
+  <a href="https://wa.me/9971749019" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
+  <a href="https://github.com/yuvraj99-cell" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/107247913/185736439-402f6025-1e63-4eb3-b770-aacd5e4b1386.png"  width="50px" alt="portfolio" /></a>
+    
+</p>
+
+
+
+<h2>📊 Github Stats</h2>
+<br/>
+
+<div>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=yuvraj99-cell&show_icons=true&theme=dark" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj99-cell&layout=compact&theme=dark" />
+</div>
+ <br />
+<img src="https://activity-graph.herokuapp.com/graph?username=yuvraj99-cell&theme=react-dark" alt="activitygraph&theme=dark" /> 
+<br />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvraj99-cell&theme=dark" alt=""/></p>
+<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=yuvraj99-cell&theme=dark" alt=""/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuvraj99-cell&theme=vue" alt="summarycard"/> </p>
+<hr />
+<h3 align="center">
+ Show some ❤️ by staring some of the repositories!
+</h3>
+<br>
+<h3 align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/yuvraj99-cell/count.svg" />
+</h3>
