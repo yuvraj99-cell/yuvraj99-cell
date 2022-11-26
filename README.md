@@ -8,7 +8,7 @@
 
 <img  src="https://raw.githubusercontent.com/gauravsapkal/gauravsapkal/main/code.gif" height="280px"  align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://github.com/yuvraj99-cell)**
+- 🙋‍♂️ All about me is at **[My Website](https://yuvrajyadavportfolio.netlify.app/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
